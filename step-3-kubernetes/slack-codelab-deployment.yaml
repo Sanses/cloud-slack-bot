@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: master
-        image: sanseacr.azure.io/slack-codelab:v1  # Replace PROJECT_ID
+        image: sanseacr.azure.io/slack-codelab:47  # Replace PROJECT_ID
                                                    # with your project ID.
         volumeMounts:
         - name: slack-token
